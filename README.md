@@ -1,3 +1,3 @@
 # InformeLaboratorio1
 
-∫▒〖x.x^2 dx〗
+∫〖x.x^2 dx〗
