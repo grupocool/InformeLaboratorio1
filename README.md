@@ -1,4 +1,4 @@
-# InformeLaboratorio
+# PRÁCTICA NÚMERO 1 - Leyes de Kirchhoff
 
 # 1.4.MATERIAL Y EQUIPO REQUERIDO
 
