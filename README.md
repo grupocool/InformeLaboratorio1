@@ -17,10 +17,13 @@
  1.5.2. Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los
 resultados de las mediciones en la tabla 1.1.
 
-   I_R1                                                              I_R2
+   IR1, IR2, IR3, IR4 Y IR5 EN ORDEN
  
- ![image](https://user-images.githubusercontent.com/85137954/120724385-5630a100-c499-11eb-9005-c3fc3ff3b5d4.png)               ![image](https://user-images.githubusercontent.com/85137954/120724482-8a0bc680-c499-11eb-9c66-9769f5f25587.png)
+ ![image](https://user-images.githubusercontent.com/85137954/120724385-5630a100-c499-11eb-9005-c3fc3ff3b5d4.png)                ![image](https://user-images.githubusercontent.com/85137954/120724596-c5a69080-c499-11eb-9f16-4e1a9213b3c7.png)                ![image](https://user-images.githubusercontent.com/85137954/120724634-d22ae900-c499-11eb-8adc-3c6995bac11b.png)                ![image](https://user-images.githubusercontent.com/85137954/120724654-dd7e1480-c499-11eb-9c13-f9176bd9b262.png)                ![image](https://user-images.githubusercontent.com/85137954/120724677-e7a01300-c499-11eb-9455-c586cb941363.png)
 
+
+
+          
 
 
 
