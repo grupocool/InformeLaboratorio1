@@ -17,7 +17,8 @@
  1.5.2. Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los
 resultados de las mediciones en la tabla 1.1.
 
-![image](https://user-images.githubusercontent.com/85137954/120722909-406dac80-c496-11eb-8857-10db1e7a66ce.png)    ![image](https://user-images.githubusercontent.com/85137954/120722951-57140380-c496-11eb-9683-61efe6c37779.png)
+![image](https://user-images.githubusercontent.com/85137954/120722909-406dac80-c496-11eb-8857-10db1e7a66ce.png)    ![image](https://user-images.githubusercontent.com/85137954/120722951-57140380-c496-11eb-9683-61efe6c37779.png)     ![image](https://user-images.githubusercontent.com/85137954/120723054-93dffa80-c496-11eb-92c1-df19f908b1f6.png)
+
 
 
 
