@@ -27,7 +27,7 @@ resultados de las mediciones en la tabla 1.1.
 
 Valor de los voltajes VR1, VR2, VR3 = VR4 y VR5 
 
-![image](https://user-images.githubusercontent.com/85137954/120726239-3c915880-c49d-11eb-8d4c-ede57879596c.png)                ![image](https://user-images.githubusercontent.com/85137954/120726255-474bed80-c49d-11eb-9b96-503b663f657d.png)                ![image](https://user-images.githubusercontent.com/85137954/120726402-9b56d200-c49d-11eb-911d-740d267c4c92.png)                ![image](https://user-images.githubusercontent.com/85137954/120726342-7cf0d680-c49d-11eb-84f7-f7cb98983f59.png)
+![image](https://user-images.githubusercontent.com/85137954/120726239-3c915880-c49d-11eb-8d4c-ede57879596c.png)                ![image](https://user-images.githubusercontent.com/85137954/120726255-474bed80-c49d-11eb-9b96-503b663f657d.png)                ![image](https://user-images.githubusercontent.com/85137954/120726402-9b56d200-c49d-11eb-911d-740d267c4c92.png)                ![image](https://user-images.githubusercontent.com/85137954/120726449-b590b000-c49d-11eb-8399-70fb51f25584.png)
 
 
 Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.
