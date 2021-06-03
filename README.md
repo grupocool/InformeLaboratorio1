@@ -2,7 +2,7 @@
 
 # 1.4.MATERIAL Y EQUIPO REQUERIDO
 
-![image](https://user-images.githubusercontent.com/85137954/120722157-e6201c00-c494-11eb-9eaf-f48bb89aa4da.png)
+       ![image](https://user-images.githubusercontent.com/85137954/120722157-e6201c00-c494-11eb-9eaf-f48bb89aa4da.png)
 
 # 1.5.PROCEDIMIENTO
 
