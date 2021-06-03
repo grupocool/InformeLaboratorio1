@@ -1,4 +1,4 @@
-# InformeLaboratorio1
+# InformeLaboratorio
 
 # 1.4.MATERIAL Y EQUIPO REQUERIDO
 
