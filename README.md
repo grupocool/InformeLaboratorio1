@@ -12,12 +12,12 @@
 
  Circuito armado Tinkercad
  
-![image](https://user-images.githubusercontent.com/85137954/120722744-ecfb5e80-c495-11eb-8271-9ff7435f4160.png)
+![image](https://user-images.githubusercontent.com/85137954/120723209-efaa8380-c496-11eb-8339-d83223eae912.png)
 
  1.5.2. Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los
 resultados de las mediciones en la tabla 1.1.
 
-![image](https://user-images.githubusercontent.com/85137954/120723143-c558c600-c496-11eb-94b3-2b5c7e63757a.png)
+
 
 
 
