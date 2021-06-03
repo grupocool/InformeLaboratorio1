@@ -21,9 +21,14 @@
  1.5.2. Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los
 resultados de las mediciones en la tabla 1.1.
 
-   IR1, IR2, IR3, IR4 Y IR5 EN ORDEN
+   IR1, IR2, IR3, IR4 Y IR5 
  
  ![image](https://user-images.githubusercontent.com/85137954/120724385-5630a100-c499-11eb-9005-c3fc3ff3b5d4.png)                ![image](https://user-images.githubusercontent.com/85137954/120724596-c5a69080-c499-11eb-9f16-4e1a9213b3c7.png)                ![image](https://user-images.githubusercontent.com/85137954/120724634-d22ae900-c499-11eb-8adc-3c6995bac11b.png)                ![image](https://user-images.githubusercontent.com/85137954/120724654-dd7e1480-c499-11eb-9c13-f9176bd9b262.png)                ![image](https://user-images.githubusercontent.com/85137954/120724677-e7a01300-c499-11eb-9455-c586cb941363.png)
+
+Valor de los voltajes VR1, VR2, VR3 = VR4 y VR5 
+
+![image](https://user-images.githubusercontent.com/85137954/120726239-3c915880-c49d-11eb-8d4c-ede57879596c.png)                ![image](https://user-images.githubusercontent.com/85137954/120726255-474bed80-c49d-11eb-9b96-503b663f657d.png)                ![image](https://user-images.githubusercontent.com/85137954/120726270-503cbf00-c49d-11eb-8c6f-e013d57dbec6.png)                ![image](https://user-images.githubusercontent.com/85137954/120726298-59c62700-c49d-11eb-9809-749f2d865f3e.png)
+
 
 Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.
 
