@@ -1,4 +1,11 @@
 # PRÁCTICA NÚMERO 1 - Leyes de Kirchhoff
+# 1.1. OBJETIVO GENERAL
+Demostrar experimentalmente la ley de Kirchhoff de Voltajes y corrientes.
+#1.1.2. OBJETIVOS ESPECÍFICOS
+- Identificar las propiedades que componen un circuito y sus diferencias
+- Realizar de circuitos en mallas y calcular su resistencia, voltaje y corriente.
+- Aplicar la Ley de voltajes de Kirchhoff durante una medición. 
+- Emplear el método de mallas y nodos para hacer mediciones indirectas.
 
 # 1.2.REQUISITOS PREVIOS
 
@@ -69,9 +76,17 @@ Tabla 1.3. Verificación de la LCK.
 
    ![WhatsApp Image 2021-06-03 at 19 41 28 (1)](https://user-images.githubusercontent.com/85137954/120729020-c6dcbb00-c4a3-11eb-9085-7dd35ec752ac.jpeg)
 
+#1.5.5. CONCLUSIONES Y RECOMENDACIONES 
+- Demostramos experimentalmente la ley de Kirchhoff tomando mediciones a través del multímetro, datos que después comparamos con los resultados teóricos y encontramos un bajo porcentaje de error.
+- Identificamos las propiedades del circuito y sus componentes, armando uno mediante el simulador TINKERCAD, analizando uno por uno su voltaje y amperaje.
+- Aplicamos la ley de voltajes para comprobar que la medición tenga coherencia, puesto que al sumar los voltajes obtenidos en nuestro circuito armado el resultado fue cero.
+- Empleando el método de mallas y nodos, tomando las medidas de diferentes ramas y determinando la dirección de nuestra corriente pudimos concluir el voltaje que tenían nuestros elementos sin necesidad de medirlos.
+- Como grupo notamos que los voltajes en paralelo son iguales y cuando están en serie, la suma de los voltajes de cada elemento me da igual al voltaje total. Como recomendación hay que evitar el mal contacto del multímetro para las conexiones puesto que podría alterar nuestra medición. Además de trabajar con orden para poder analizar el circuito sin confusiones.
 
-
-
+#1.6. REFERENCIAS
+- Davis, A., (ed.). Circuit Analysis Exam File. San Jose, CA: Engineering Press, 1986
+- Angerbaur, G.J. Principles of DC and AC Circuits, 3a. ed. Albany, NY. Delman Publish
+- Bartkowiak, R. A. Electric Circuit Analysis. Nueva York: Harper & Row, 19
           
 
 
