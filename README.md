@@ -3,7 +3,8 @@
 # 1.3.INFORMACIÓN GENERAL
 
    ![png (1)](https://user-images.githubusercontent.com/85137954/120727902-50d75480-c4a1-11eb-91ae-d48a79cf66af.png)
-
+   
+A continuación las leyes de Kirchhoff
    ![png](https://user-images.githubusercontent.com/85137954/120725086-c55ac500-c49a-11eb-85cc-3270c139461e.png)
 
 # 1.4.MATERIAL Y EQUIPO REQUERIDO
