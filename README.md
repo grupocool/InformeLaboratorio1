@@ -85,9 +85,10 @@ Tabla 1.3. Verificación de la LCK.
 
 #1.6. REFERENCIAS
 - Davis, A., (ed.). Circuit Analysis Exam File. San Jose, CA: Engineering Press, 1986
-- Angerbaur, G.J. Principles of DC and AC Circuits, 3a. ed. Albany, NY. Delman Publish
-- Bartkowiak, R. A. Electric Circuit Analysis. Nueva York: Harper & Row, 19
+- Angerbaur, G.J. Principles of DC and AC Circuits, 3a. ed. Albany, NY. Delman Publish, 1996
+- Bartkowiak, R. A. Electric Circuit Analysis. Nueva York: Harper & Row, 1985
           
+#link del video: 
 
 
 
