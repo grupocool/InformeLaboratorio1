@@ -40,6 +40,9 @@ FORMULA CALCULO DEL ERROR:    error% = [(Valor teorico - Valor medido)*100]/(Val
 considerando las elevaciones de voltaje con signo positivo y las caídas de voltaje con
 signo negativo. Anote los resultados en la tabla 1.2.
 
+   ![image](https://user-images.githubusercontent.com/85137954/120727246-a6126680-c49f-11eb-8a30-a0c7d180c379.png)
+
+
 Tabla 1.2. Verificación de la LVK.
 
 
