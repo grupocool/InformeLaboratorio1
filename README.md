@@ -48,7 +48,9 @@ signo negativo. Anote los resultados en la tabla 1.2.
 
 Tabla 1.2. Verificación de la LVK.
 
+   ![WhatsApp Image 2021-06-03 at 19 40 31](https://user-images.githubusercontent.com/85137954/120728949-98f77680-c4a3-11eb-9309-df8c6bd40430.jpeg)
 
+   
 1.5.4. Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando
 con signo positivo las corrientes que entran al nodo y con signo negativo las que salen
 del nodo. Anote los resultados en la tabla 1.3.
