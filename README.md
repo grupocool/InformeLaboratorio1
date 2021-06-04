@@ -1,5 +1,15 @@
 # PRÁCTICA NÚMERO 1 - Leyes de Kirchhoff
 
+# 1.2.REQUISITOS PREVIOS
+
+Se requiere el análisis analítico del circuito mostrado en la figura 1.1. Anote los resultados
+obtenidos en las tablas 1.1, 1.2. y 1.3.
+
+![image](https://user-images.githubusercontent.com/85137954/120731697-bfb8ab80-c4a9-11eb-87bb-c19b49990f4c.png)
+
+![image](https://user-images.githubusercontent.com/85137954/120731710-c5ae8c80-c4a9-11eb-8e3e-a4a973c07396.png)
+
+
 # 1.3.INFORMACIÓN GENERAL
 
    ![png (1)](https://user-images.githubusercontent.com/85137954/120727902-50d75480-c4a1-11eb-91ae-d48a79cf66af.png)
