@@ -57,7 +57,8 @@ del nodo. Anote los resultados en la tabla 1.3.
 
 Tabla 1.3. Verificación de la LCK.
 
-![image](https://user-images.githubusercontent.com/85137954/120725685-220aaf80-c49c-11eb-81d8-0fb09f007fbe.png)
+   ![WhatsApp Image 2021-06-03 at 19 41 28 (1)](https://user-images.githubusercontent.com/85137954/120729020-c6dcbb00-c4a3-11eb-9085-7dd35ec752ac.jpeg)
+
 
 
 
