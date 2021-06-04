@@ -1,7 +1,7 @@
 # PRÁCTICA NÚMERO 1 - Leyes de Kirchhoff
 # 1.1. OBJETIVO GENERAL
 Demostrar experimentalmente la ley de Kirchhoff de Voltajes y corrientes.
-##1.1.2. OBJETIVOS ESPECÍFICOS
+## 1.1.2. OBJETIVOS ESPECÍFICOS
 - Identificar las propiedades que componen un circuito y sus diferencias
 - Realizar de circuitos en mallas y calcular su resistencia, voltaje y corriente.
 - Aplicar la Ley de voltajes de Kirchhoff durante una medición. 
