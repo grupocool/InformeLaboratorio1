@@ -88,7 +88,7 @@ Tabla 1.3. Verificación de la LCK.
 - Angerbaur, G.J. Principles of DC and AC Circuits, 3a. ed. Albany, NY. Delman Publish, 1996
 - Bartkowiak, R. A. Electric Circuit Analysis. Nueva York: Harper & Row, 1985
           
-#link del video: 
+  # link del video: 
 
 
 
