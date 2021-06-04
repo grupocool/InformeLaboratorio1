@@ -83,7 +83,7 @@ Tabla 1.3. Verificación de la LCK.
 - Empleando el método de mallas y nodos, tomando las medidas de diferentes ramas y determinando la dirección de nuestra corriente pudimos concluir el voltaje que tenían nuestros elementos sin necesidad de medirlos.
 - Como grupo notamos que los voltajes en paralelo son iguales y cuando están en serie, la suma de los voltajes de cada elemento me da igual al voltaje total. Como recomendación hay que evitar el mal contacto del multímetro para las conexiones puesto que podría alterar nuestra medición. Además de trabajar con orden para poder analizar el circuito sin confusiones.
  # Link del video: 
- https://youtu.be/1SF6DKV4rTo
+https://youtu.be/_lDExFVOB3A
  
 # 1.6. REFERENCIAS
 - Davis, A., (ed.). Circuit Analysis Exam File. San Jose, CA: Engineering Press, 1986
