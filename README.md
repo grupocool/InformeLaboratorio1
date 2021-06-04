@@ -58,7 +58,7 @@ signo negativo. Anote los resultados en la tabla 1.2.
 
 Tabla 1.2. Verificación de la LVK.
 
-   ![WhatsApp Image 2021-06-03 at 19 40 31](https://user-images.githubusercontent.com/85137954/120728949-98f77680-c4a3-11eb-9309-df8c6bd40430.jpeg)
+   ![WhatsApp Image 2021-06-03 at 20 37 59](https://user-images.githubusercontent.com/85137954/120732851-a0228280-c4ab-11eb-9f02-92dd1a1126d9.jpeg)
 
    
 1.5.4. Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando
